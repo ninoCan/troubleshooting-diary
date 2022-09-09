@@ -5,3 +5,5 @@ This repo contains a record of issues which I came across, and how they were sol
 ## Issues:
 
  - [LC not properly set](issues/lc-not-set.md)
+ - [LaTeX ClearSans.sty not found](issues/clearSans-not-found.md)
+
